@@ -1,6 +1,6 @@
-Peer Review
+# Peer Review
 
-Project Reviewed: [classification_NathanSloss.ipynb](https://github.com/nwn8/applied-ml-nates/blob/main/notebooks/Midterm/classification_NathanSloss.ipynb)
+**Project Reviewed: [classification_NathanSloss.ipynb](https://github.com/nwn8/applied-ml-nates/blob/main/notebooks/Midterm/classification_NathanSloss.ipynb)**
 
 
 1. Clarity & Organization

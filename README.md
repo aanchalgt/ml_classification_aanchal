@@ -8,7 +8,7 @@
 
 ## Notebook
 You can view the full Jupyter Notebook here:  
-[**classification_aanchal.ipynb**](C:\Repos\ml_classification_aanchal\classification_aanchal.ipynb)
+[**classification_aanchal.ipynb**](https://github.com/aanchalgt/ml_classification_aanchal/blob/main/classification_aanchal.ipynb)
 
 ---
 
